@@ -1,7 +1,7 @@
 # About
 
-Inspired by [Little Red Riding Hood](https://ai-quest.lusion.co/).
+Inspired by [TOKYO NODE](https://www.tokyonode.jp/).
 
 https://nemutas.github.io/tokyonode-text-animation/
 
-<img src='https://github.com/user-attachments/assets/89e29a04-553a-412e-9a8f-6c7bad284214' alt='' width='700' />
+<img src='https://github.com/user-attachments/assets/a304b0b7-f111-4f43-9a96-3fb532ffb541' alt='' width='700' />
