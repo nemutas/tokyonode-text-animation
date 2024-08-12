@@ -13,6 +13,6 @@ flat out int vDiscard;
 void main() {
 	vDiscard = visible;
 
-	gl_PointSize = 7.0;
+	gl_PointSize = 9.0;
 	gl_Position = projectionMatrix * viewMatrix * modelMatrix * vec4(position, 1.0);
 }

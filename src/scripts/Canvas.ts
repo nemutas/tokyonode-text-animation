@@ -115,7 +115,7 @@ export class Canvas extends Three {
     geo.setAttribute('position', new THREE.Float32BufferAttribute(vertices, 3).setUsage(THREE.DynamicDrawUsage))
     geo.attributes['position'].needsUpdate = true
 
-    const mat = new THREE.MeshBasicMaterial({ color: '#000', opacity: 0.1, transparent: true })
+    const mat = new THREE.MeshBasicMaterial({ color: '#000', opacity: 0.15, transparent: true })
     const mesh = new THREE.LineSegments(geo, mat)
     this.scene.add(mesh)
     return mesh

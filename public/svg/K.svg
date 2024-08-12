@@ -2,6 +2,6 @@
 <g id="K">
 <line id="k1" x1="0.5" x2="0.5" y2="67" stroke="black"/>
 <line id="k2" x1="32.3942" y1="0.307635" x2="0.394157" y2="41.3076" stroke="black"/>
-<line id="k3" x1="11.4335" y1="26.7508" x2="34.4335" y2="66.7508" stroke="black"/>
+<path id="k3" d="M12 27.5L34.4334 66.7508" stroke="black"/>
 </g>
 </svg>
